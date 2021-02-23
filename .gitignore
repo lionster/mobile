@@ -1,1 +1,18 @@
+# Node
 node_modules/
+yarn.lock
+
+# OS X
+.DS_Store
+
+# Android
+/android/
+
+
+#IOS
+/ios/
+
+*.log
+.nvm
+/bots/node_modules/
+package-lock.json
